@@ -4,10 +4,10 @@ An application where requestor can create profile and request for a particular b
 
 # Few Webshots
 
-[shot-1](https://github.com/jamesbond-7/Blood-Bank-App/blob/master/public/img/Webshots/BBW-1.PNG)
-[shot-2](https://github.com/jamesbond-7/Blood-Bank-App/blob/master/public/img/Webshots/BBW.PNG)
-[shot-3](https://github.com/jamesbond-7/Blood-Bank-App/blob/master/public/img/Webshots/BBW-2.PNG)
-[shot-4](https://github.com/jamesbond-7/Blood-Bank-App/blob/master/public/img/Webshots/BBW-3.PNG)
+![shot-1](https://github.com/jamesbond-7/Blood-Bank-App/blob/master/public/img/Webshots/BBW-1.PNG)
+![shot-2](https://github.com/jamesbond-7/Blood-Bank-App/blob/master/public/img/Webshots/BBW.PNG)
+![shot-3](https://github.com/jamesbond-7/Blood-Bank-App/blob/master/public/img/Webshots/BBW-2.PNG)
+![shot-4](https://github.com/jamesbond-7/Blood-Bank-App/blob/master/public/img/Webshots/BBW-3.PNG)
 
 # Architecture / Pattern
 
